@@ -1,5 +1,15 @@
-Markdown
+# Proyecto Final - Sistema de Gestión de Tienda
 
-# Proyecto Final
+Proyecto integrador desarrollado como evaluación final para la asignatura de Fundamentos de Programación.
 
-Proyecto integrador desarrollado al finalizar el curso de Fundamentos de Programación, aplicando los conocimientos adquiridos durante las cuatro unidades.
+## Temas abordados
+
+* Unidad I: Estructuras Secuenciales
+* Unidad II: Estructuras Condicionales
+* Unidad III: Estructuras Repetitivas
+* Unidad IV: Modularidad y Arreglos
+
+## Tecnologías utilizadas
+
+* Java
+* NetBeans
