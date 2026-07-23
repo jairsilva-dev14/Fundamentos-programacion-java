@@ -11,7 +11,7 @@ Ejercicios desarrollados durante la Unidad 4 del curso de Fundamentos de Program
 * Promedio de Notas con Arreglos
 * Búsqueda de Nombres en Vectores
 * Cálculo de Monto de Ventas de Productos
-* Sistema Evaluativo Modular con Arreglos (Caso de Examen Final)
+* Sistema de Gestión de Empleados (Caso de Examen Final)
 
 ## Tecnologías utilizadas
 
