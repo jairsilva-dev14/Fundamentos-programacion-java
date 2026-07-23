@@ -17,4 +17,4 @@ Repositorio donde almaceno los ejercicios, prácticas y el proyecto final desarr
 
 ## Autor
 
-* **Jair Silva** ([@jairsilva-dev14] (https://github.com/jairsilva-dev14))
+* **Jair Silva** ([@jairsilva-dev14] (jairsilva.dev14@gmail.com))
