@@ -1,19 +1,20 @@
 # Fundamentos de Programación en Java
 
-Repositorio donde almaceno ejercicios y proyectos desarrollados durante el curso de Fundamentos de Programación.
+Repositorio donde almaceno los ejercicios, prácticas y el proyecto final desarrollados durante el curso de Fundamentos de Programación.
 
 ## Contenido
 
-- Unidad 1: Estructuras de programación secuenciales
-- Unidad 2: Estructuras condicionales o selectivas
-- Unidad 3: Estructuras repetitivas
-- Unidad 4: Modularidad y arreglos
-- Proyecto final
+* **Unidad 1:** Estructuras Secuenciales
+* **Unidad 2:** Estructuras Condicionales o Selectivas
+* **Unidad 3:** Estructuras Repetitivas
+* **Unidad 4:** Modularidad y Arreglos
+* **Proyecto Final:** Sistema de Gestión de Tienda
 
-## Lenguaje
+## Tecnologías utilizadas
 
-- Java
+* **Lenguaje:** Java
+* **IDE:** NetBeans
 
 ## Autor
 
-Jair Silva
+* **Jair Silva** ([@jairsilva-dev14](https://github.com/jairsilva-dev14))
